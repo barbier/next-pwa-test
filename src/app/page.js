@@ -7,6 +7,7 @@ export default function Home() {
       <h1>Restaurantes</h1>
       <Link href="/restaurant/a">Restaurante A</Link>
       <Link href="/restaurant/b">Restaurante B</Link>
+      <Link href="/restaurant/b">Restaurante C</Link>
     </main>
   )
 }
