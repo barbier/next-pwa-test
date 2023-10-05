@@ -1,0 +1,10 @@
+{
+  "name": "Lista de restaurantes",
+  "short_name": "Food App",
+  "icons": [],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
