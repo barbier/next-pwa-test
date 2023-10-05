@@ -1,5 +1,9 @@
 import Link from "next/link";
 
+export function generateStaticParams() {
+  return [{ id: 'a' }, { id: 'b' }, { id: 'c' }]
+}
+
 export default function Page({params}) {
   return(
     <main>
